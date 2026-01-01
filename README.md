@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I think I am Cool**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> www.linkedin.com/in/charanadidam>
+<p align="left"> www.linkedin.com/in/charanadidam
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
